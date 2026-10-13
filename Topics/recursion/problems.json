@@ -5,8 +5,28 @@
     "name": "Recursion",
     "tagId": "31"
   },
-  "updatedAt": "2026-10-13T05:39:44.033Z",
+  "updatedAt": "2026-10-13T05:42:19.890Z",
   "problems": [
+    {
+      "frontendId": "2",
+      "title": "Add Two Numbers",
+      "slug": "add-two-numbers",
+      "problemName": "0002-add-two-numbers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/add-two-numbers/",
+      "folderPath": "0002-add-two-numbers/",
+      "readmePath": "0002-add-two-numbers/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0002-add-two-numbers.py",
+          "path": "0002-add-two-numbers/0002-add-two-numbers.py",
+          "sha": "35fd80fafd8d24d165a2b31e39b09a575c76c937",
+          "lastSyncedAt": "2026-10-13T05:42:19.890Z"
+        }
+      ]
+    },
     {
       "frontendId": "21",
       "title": "Merge Two Sorted Lists",
