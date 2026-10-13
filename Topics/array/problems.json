@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T05:34:03.574Z",
+  "updatedAt": "2026-10-13T05:34:19.988Z",
   "problems": [
     {
       "frontendId": "11",
@@ -104,6 +104,26 @@
           "path": "0053-maximum-subarray/0053-maximum-subarray.java",
           "sha": "1f6715e09c0a94361a6811a715960f4478884f5a",
           "lastSyncedAt": "2026-10-13T05:33:26.463Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "57",
+      "title": "Insert Interval",
+      "slug": "insert-interval",
+      "problemName": "0057-insert-interval",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/insert-interval/",
+      "folderPath": "0057-insert-interval/",
+      "readmePath": "0057-insert-interval/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0057-insert-interval.java",
+          "path": "0057-insert-interval/0057-insert-interval.java",
+          "sha": "16c9f8b159347e5441d1ae1c3738b1522badc48c",
+          "lastSyncedAt": "2026-10-13T05:34:19.988Z"
         }
       ]
     },
