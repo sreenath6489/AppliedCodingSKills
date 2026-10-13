@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-10-13T05:36:41.474Z",
+  "updatedAt": "2026-10-13T05:38:47.127Z",
   "problems": [
     {
       "frontendId": "23",
@@ -64,6 +64,26 @@
           "path": "0025-reverse-nodes-in-k-group/0025-reverse-nodes-in-k-group.java",
           "sha": "933c453b9157b1823b21d046647edc50832403f5",
           "lastSyncedAt": "2026-10-13T05:36:32.931Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "160",
+      "title": "Intersection of Two Linked Lists",
+      "slug": "intersection-of-two-linked-lists",
+      "problemName": "0160-intersection-of-two-linked-lists",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/intersection-of-two-linked-lists/",
+      "folderPath": "0160-intersection-of-two-linked-lists/",
+      "readmePath": "0160-intersection-of-two-linked-lists/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0160-intersection-of-two-linked-lists.java",
+          "path": "0160-intersection-of-two-linked-lists/0160-intersection-of-two-linked-lists.java",
+          "sha": "a679779461aae33adbd94d42c67e60086c83b7e2",
+          "lastSyncedAt": "2026-10-13T05:38:47.127Z"
         }
       ]
     }
