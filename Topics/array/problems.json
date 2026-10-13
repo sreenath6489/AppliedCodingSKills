@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T05:33:41.970Z",
+  "updatedAt": "2026-10-13T05:33:51.567Z",
   "problems": [
     {
       "frontendId": "11",
@@ -384,6 +384,26 @@
           "path": "1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold.java",
           "sha": "c62d0f204e7c43f81abcef6c32774fe87e69fc4c",
           "lastSyncedAt": "2026-10-13T05:30:47.403Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1470",
+      "title": "Shuffle the Array",
+      "slug": "shuffle-the-array",
+      "problemName": "1470-shuffle-the-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/shuffle-the-array/",
+      "folderPath": "1470-shuffle-the-array/",
+      "readmePath": "1470-shuffle-the-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1470-shuffle-the-array.java",
+          "path": "1470-shuffle-the-array/1470-shuffle-the-array.java",
+          "sha": "daee0aba09702eb377d3887d0e5669a63f38db4c",
+          "lastSyncedAt": "2026-10-13T05:33:51.567Z"
         }
       ]
     }
