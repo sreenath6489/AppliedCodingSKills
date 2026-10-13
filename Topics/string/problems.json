@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-13T05:38:17.783Z",
+  "updatedAt": "2026-10-13T05:38:55.672Z",
   "problems": [
     {
       "frontendId": "3",
@@ -224,6 +224,26 @@
           "path": "1456-maximum-number-of-vowels-in-a-substring-of-given-length/1456-maximum-number-of-vowels-in-a-substring-of-given-length.java",
           "sha": "8833eb04014d9daf8f457dadfe9174a669c9dc15",
           "lastSyncedAt": "2026-10-13T05:30:40.968Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1704",
+      "title": "Determine if String Halves Are Alike",
+      "slug": "determine-if-string-halves-are-alike",
+      "problemName": "1704-determine-if-string-halves-are-alike",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/determine-if-string-halves-are-alike/",
+      "folderPath": "1704-determine-if-string-halves-are-alike/",
+      "readmePath": "1704-determine-if-string-halves-are-alike/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1704-determine-if-string-halves-are-alike.java",
+          "path": "1704-determine-if-string-halves-are-alike/1704-determine-if-string-halves-are-alike.java",
+          "sha": "c81dd3609121f0c4e30af9a2653ee9a18887705a",
+          "lastSyncedAt": "2026-10-13T05:38:55.672Z"
         }
       ]
     }
