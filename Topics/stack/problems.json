@@ -5,7 +5,7 @@
     "name": "Stack",
     "tagId": "15"
   },
-  "updatedAt": "2026-10-13T05:31:00.186Z",
+  "updatedAt": "2026-10-13T05:36:48.243Z",
   "problems": [
     {
       "frontendId": "42",
@@ -24,6 +24,26 @@
           "path": "0042-trapping-rain-water/0042-trapping-rain-water.java",
           "sha": "f0ddb7fec10028c49e958a6ca052b4d14958052c",
           "lastSyncedAt": "2026-10-13T05:31:00.186Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1249",
+      "title": "Minimum Remove to Make Valid Parentheses",
+      "slug": "minimum-remove-to-make-valid-parentheses",
+      "problemName": "1249-minimum-remove-to-make-valid-parentheses",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/",
+      "folderPath": "1249-minimum-remove-to-make-valid-parentheses/",
+      "readmePath": "1249-minimum-remove-to-make-valid-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1249-minimum-remove-to-make-valid-parentheses.java",
+          "path": "1249-minimum-remove-to-make-valid-parentheses/1249-minimum-remove-to-make-valid-parentheses.java",
+          "sha": "d83b99065c51c160e49b370859721c2867e62e42",
+          "lastSyncedAt": "2026-10-13T05:36:48.243Z"
         }
       ]
     }
