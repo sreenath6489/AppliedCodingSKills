@@ -5,8 +5,28 @@
     "name": "Divide and Conquer",
     "tagId": "12"
   },
-  "updatedAt": "2026-10-13T05:33:26.463Z",
+  "updatedAt": "2026-10-13T05:35:54.823Z",
   "problems": [
+    {
+      "frontendId": "23",
+      "title": "Merge k Sorted Lists",
+      "slug": "merge-k-sorted-lists",
+      "problemName": "0023-merge-k-sorted-lists",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-k-sorted-lists/",
+      "folderPath": "0023-merge-k-sorted-lists/",
+      "readmePath": "0023-merge-k-sorted-lists/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0023-merge-k-sorted-lists.java",
+          "path": "0023-merge-k-sorted-lists/0023-merge-k-sorted-lists.java",
+          "sha": "59af420fa34759f1022716cd4235e7450f689f22",
+          "lastSyncedAt": "2026-10-13T05:35:54.823Z"
+        }
+      ]
+    },
     {
       "frontendId": "53",
       "title": "Maximum Subarray",
