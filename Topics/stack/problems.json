@@ -5,7 +5,7 @@
     "name": "Stack",
     "tagId": "15"
   },
-  "updatedAt": "2026-10-13T05:38:38.299Z",
+  "updatedAt": "2026-10-13T05:39:44.033Z",
   "problems": [
     {
       "frontendId": "42",
@@ -24,6 +24,26 @@
           "path": "0042-trapping-rain-water/0042-trapping-rain-water.java",
           "sha": "f0ddb7fec10028c49e958a6ca052b4d14958052c",
           "lastSyncedAt": "2026-10-13T05:31:00.186Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "234",
+      "title": "Palindrome Linked List",
+      "slug": "palindrome-linked-list",
+      "problemName": "0234-palindrome-linked-list",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/palindrome-linked-list/",
+      "folderPath": "0234-palindrome-linked-list/",
+      "readmePath": "0234-palindrome-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0234-palindrome-linked-list.java",
+          "path": "0234-palindrome-linked-list/0234-palindrome-linked-list.java",
+          "sha": "6e78a2c672600c609a7b50b750994fd255a97545",
+          "lastSyncedAt": "2026-10-13T05:39:44.033Z"
         }
       ]
     },
