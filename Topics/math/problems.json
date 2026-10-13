@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-13T05:36:24.728Z",
+  "updatedAt": "2026-10-13T05:39:23.210Z",
   "problems": [
     {
       "frontendId": "13",
@@ -84,6 +84,26 @@
           "path": "0268-missing-number/0268-missing-number.java",
           "sha": "018320530a6083d772e6907f7e34084267dc3418",
           "lastSyncedAt": "2026-10-13T05:32:28.949Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1360",
+      "title": "Number of Days Between Two Dates",
+      "slug": "number-of-days-between-two-dates",
+      "problemName": "1360-number-of-days-between-two-dates",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-days-between-two-dates/",
+      "folderPath": "1360-number-of-days-between-two-dates/",
+      "readmePath": "1360-number-of-days-between-two-dates/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1360-number-of-days-between-two-dates.java",
+          "path": "1360-number-of-days-between-two-dates/1360-number-of-days-between-two-dates.java",
+          "sha": "fe798c37678523ae730bba5e06a176065c643a7f",
+          "lastSyncedAt": "2026-10-13T05:39:23.210Z"
         }
       ]
     }
