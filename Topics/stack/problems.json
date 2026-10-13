@@ -5,7 +5,7 @@
     "name": "Stack",
     "tagId": "15"
   },
-  "updatedAt": "2026-10-13T05:36:55.206Z",
+  "updatedAt": "2026-10-13T05:37:03.796Z",
   "problems": [
     {
       "frontendId": "42",
@@ -44,6 +44,26 @@
           "path": "0735-asteroid-collision/0735-asteroid-collision.java",
           "sha": "496d55e660402cf2e94d3c707d1635cfcb5aa4ac",
           "lastSyncedAt": "2026-10-13T05:36:55.206Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "946",
+      "title": "Validate Stack Sequences",
+      "slug": "validate-stack-sequences",
+      "problemName": "0946-validate-stack-sequences",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/validate-stack-sequences/",
+      "folderPath": "0946-validate-stack-sequences/",
+      "readmePath": "0946-validate-stack-sequences/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0946-validate-stack-sequences.java",
+          "path": "0946-validate-stack-sequences/0946-validate-stack-sequences.java",
+          "sha": "61c7d7b2d396cbb7770e42c2ad6b65ef96ddc479",
+          "lastSyncedAt": "2026-10-13T05:37:03.796Z"
         }
       ]
     },
