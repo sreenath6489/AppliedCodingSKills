@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-10-13T05:31:40.968Z",
+  "updatedAt": "2026-10-13T05:34:38.872Z",
   "problems": [
     {
       "frontendId": "11",
@@ -24,6 +24,26 @@
           "path": "0011-container-with-most-water/0011-container-with-most-water.java",
           "sha": "f73f5b0f54c51e065fa3cad3ac23bc433a3d7675",
           "lastSyncedAt": "2026-10-13T05:31:40.968Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "55",
+      "title": "Jump Game",
+      "slug": "jump-game",
+      "problemName": "0055-jump-game",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/jump-game/",
+      "folderPath": "0055-jump-game/",
+      "readmePath": "0055-jump-game/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0055-jump-game.java",
+          "path": "0055-jump-game/0055-jump-game.java",
+          "sha": "d72d4bd09b2fdd55a9983e25a0eae11842c06f97",
+          "lastSyncedAt": "2026-10-13T05:34:38.872Z"
         }
       ]
     }
