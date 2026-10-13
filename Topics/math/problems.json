@@ -5,8 +5,28 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-13T05:32:28.949Z",
+  "updatedAt": "2026-10-13T05:33:02.602Z",
   "problems": [
+    {
+      "frontendId": "189",
+      "title": "Rotate Array",
+      "slug": "rotate-array",
+      "problemName": "0189-rotate-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-array/",
+      "folderPath": "0189-rotate-array/",
+      "readmePath": "0189-rotate-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0189-rotate-array.java",
+          "path": "0189-rotate-array/0189-rotate-array.java",
+          "sha": "9b23004df94c6d129faccd86afe17f12c785c908",
+          "lastSyncedAt": "2026-10-13T05:33:02.602Z"
+        }
+      ]
+    },
     {
       "frontendId": "268",
       "title": "Missing Number",
