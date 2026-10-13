@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T05:31:40.968Z",
+  "updatedAt": "2026-10-13T05:31:51.127Z",
   "problems": [
     {
       "frontendId": "11",
@@ -124,6 +124,26 @@
           "path": "0643-maximum-average-subarray-i/0643-maximum-average-subarray-i.java",
           "sha": "1a570eec978f5c820443cd139b86c2b62bf5f7f0",
           "lastSyncedAt": "2026-10-13T05:30:53.787Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "977",
+      "title": "Squares of a Sorted Array",
+      "slug": "squares-of-a-sorted-array",
+      "problemName": "0977-squares-of-a-sorted-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/squares-of-a-sorted-array/",
+      "folderPath": "0977-squares-of-a-sorted-array/",
+      "readmePath": "0977-squares-of-a-sorted-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0977-squares-of-a-sorted-array.java",
+          "path": "0977-squares-of-a-sorted-array/0977-squares-of-a-sorted-array.java",
+          "sha": "460814b11888c6733e52f64cb444cd8d584f251c",
+          "lastSyncedAt": "2026-10-13T05:31:51.127Z"
         }
       ]
     },
