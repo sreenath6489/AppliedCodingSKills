@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T05:38:07.486Z",
+  "updatedAt": "2026-10-13T05:38:27.268Z",
   "problems": [
     {
       "frontendId": "11",
@@ -544,6 +544,26 @@
           "path": "0735-asteroid-collision/0735-asteroid-collision.java",
           "sha": "496d55e660402cf2e94d3c707d1635cfcb5aa4ac",
           "lastSyncedAt": "2026-10-13T05:36:55.206Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "867",
+      "title": "Transpose Matrix",
+      "slug": "transpose-matrix",
+      "problemName": "0867-transpose-matrix",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/transpose-matrix/",
+      "folderPath": "0867-transpose-matrix/",
+      "readmePath": "0867-transpose-matrix/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0867-transpose-matrix.java",
+          "path": "0867-transpose-matrix/0867-transpose-matrix.java",
+          "sha": "86b7efb5b7dcc41385d76a0096c2914c526b66b6",
+          "lastSyncedAt": "2026-10-13T05:38:27.268Z"
         }
       ]
     },
