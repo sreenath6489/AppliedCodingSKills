@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T05:37:56.774Z",
+  "updatedAt": "2026-10-13T05:38:07.486Z",
   "problems": [
     {
       "frontendId": "11",
@@ -164,6 +164,26 @@
           "path": "0047-permutations-ii/0047-permutations-ii.java",
           "sha": "61d7c6e1c20f202e22a67c335a8a5592ca3ebd4f",
           "lastSyncedAt": "2026-10-13T05:34:48.217Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "49",
+      "title": "Group Anagrams",
+      "slug": "group-anagrams",
+      "problemName": "0049-group-anagrams",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/group-anagrams/",
+      "folderPath": "0049-group-anagrams/",
+      "readmePath": "0049-group-anagrams/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0049-group-anagrams.java",
+          "path": "0049-group-anagrams/0049-group-anagrams.java",
+          "sha": "fdb359221614be44aca166a1494bf08c08f24874",
+          "lastSyncedAt": "2026-10-13T05:38:07.486Z"
         }
       ]
     },
