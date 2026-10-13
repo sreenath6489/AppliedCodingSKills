@@ -5,8 +5,28 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-10-13T05:33:35.151Z",
+  "updatedAt": "2026-10-13T05:35:27.528Z",
   "problems": [
+    {
+      "frontendId": "29",
+      "title": "Divide Two Integers",
+      "slug": "divide-two-integers",
+      "problemName": "0029-divide-two-integers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/divide-two-integers/",
+      "folderPath": "0029-divide-two-integers/",
+      "readmePath": "0029-divide-two-integers/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0029-divide-two-integers.java",
+          "path": "0029-divide-two-integers/0029-divide-two-integers.java",
+          "sha": "172cbf7f31c98d6c9af68f353b232412e2f8b957",
+          "lastSyncedAt": "2026-10-13T05:35:27.528Z"
+        }
+      ]
+    },
     {
       "frontendId": "136",
       "title": "Single Number",
