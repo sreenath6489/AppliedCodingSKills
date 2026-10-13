@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-10-13T05:38:47.127Z",
+  "updatedAt": "2026-10-13T05:39:03.266Z",
   "problems": [
     {
       "frontendId": "23",
@@ -64,6 +64,26 @@
           "path": "0025-reverse-nodes-in-k-group/0025-reverse-nodes-in-k-group.java",
           "sha": "933c453b9157b1823b21d046647edc50832403f5",
           "lastSyncedAt": "2026-10-13T05:36:32.931Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "142",
+      "title": "Linked List Cycle II",
+      "slug": "linked-list-cycle-ii",
+      "problemName": "0142-linked-list-cycle-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/linked-list-cycle-ii/",
+      "folderPath": "0142-linked-list-cycle-ii/",
+      "readmePath": "0142-linked-list-cycle-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0142-linked-list-cycle-ii.java",
+          "path": "0142-linked-list-cycle-ii/0142-linked-list-cycle-ii.java",
+          "sha": "60cec62000183ca99db2fd9e2b6284346eb59db8",
+          "lastSyncedAt": "2026-10-13T05:39:03.266Z"
         }
       ]
     },
