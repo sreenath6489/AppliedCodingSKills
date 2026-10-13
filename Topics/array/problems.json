@@ -5,8 +5,28 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T05:31:00.186Z",
+  "updatedAt": "2026-10-13T05:31:27.105Z",
   "problems": [
+    {
+      "frontendId": "27",
+      "title": "Remove Element",
+      "slug": "remove-element",
+      "problemName": "0027-remove-element",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-element/",
+      "folderPath": "0027-remove-element/",
+      "readmePath": "0027-remove-element/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0027-remove-element.java",
+          "path": "0027-remove-element/0027-remove-element.java",
+          "sha": "200fbd998a1454369138d33c8f631e783619beeb",
+          "lastSyncedAt": "2026-10-13T05:31:27.105Z"
+        }
+      ]
+    },
     {
       "frontendId": "42",
       "title": "Trapping Rain Water",
