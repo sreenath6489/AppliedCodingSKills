@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-10-13T05:33:56.932Z",
+  "updatedAt": "2026-10-13T05:40:43.330Z",
   "problems": [
     {
       "frontendId": "209",
@@ -84,6 +84,26 @@
           "path": "1480-running-sum-of-1d-array/1480-running-sum-of-1d-array.java",
           "sha": "e886bca2809d57522083690849fa32574645ad8e",
           "lastSyncedAt": "2026-10-13T05:33:56.932Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1685",
+      "title": "Sum of Absolute Differences in a Sorted Array",
+      "slug": "sum-of-absolute-differences-in-a-sorted-array",
+      "problemName": "1685-sum-of-absolute-differences-in-a-sorted-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/",
+      "folderPath": "1685-sum-of-absolute-differences-in-a-sorted-array/",
+      "readmePath": "1685-sum-of-absolute-differences-in-a-sorted-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1685-sum-of-absolute-differences-in-a-sorted-array.java",
+          "path": "1685-sum-of-absolute-differences-in-a-sorted-array/1685-sum-of-absolute-differences-in-a-sorted-array.java",
+          "sha": "9da692ee6043ddc6a840b1e4aac4964f6e516bfd",
+          "lastSyncedAt": "2026-10-13T05:40:43.330Z"
         }
       ]
     }
