@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-13T05:38:47.127Z",
+  "updatedAt": "2026-10-13T05:39:03.266Z",
   "problems": [
     {
       "frontendId": "3",
@@ -64,6 +64,26 @@
           "path": "0049-group-anagrams/0049-group-anagrams.java",
           "sha": "fdb359221614be44aca166a1494bf08c08f24874",
           "lastSyncedAt": "2026-10-13T05:38:07.486Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "142",
+      "title": "Linked List Cycle II",
+      "slug": "linked-list-cycle-ii",
+      "problemName": "0142-linked-list-cycle-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/linked-list-cycle-ii/",
+      "folderPath": "0142-linked-list-cycle-ii/",
+      "readmePath": "0142-linked-list-cycle-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0142-linked-list-cycle-ii.java",
+          "path": "0142-linked-list-cycle-ii/0142-linked-list-cycle-ii.java",
+          "sha": "60cec62000183ca99db2fd9e2b6284346eb59db8",
+          "lastSyncedAt": "2026-10-13T05:39:03.266Z"
         }
       ]
     },
