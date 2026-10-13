@@ -5,7 +5,7 @@
     "name": "Quicksort",
     "tagId": "68362"
   },
-  "updatedAt": "2026-10-13T05:34:25.276Z",
+  "updatedAt": "2026-10-13T05:40:23.352Z",
   "problems": [
     {
       "frontendId": "56",
@@ -24,6 +24,26 @@
           "path": "0056-merge-intervals/0056-merge-intervals.java",
           "sha": "f0e05deda78c0df80a877ad7b9818aeca2a1f52f",
           "lastSyncedAt": "2026-10-13T05:34:25.276Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "75",
+      "title": "Sort Colors",
+      "slug": "sort-colors",
+      "problemName": "0075-sort-colors",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-colors/",
+      "folderPath": "0075-sort-colors/",
+      "readmePath": "0075-sort-colors/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0075-sort-colors.java",
+          "path": "0075-sort-colors/0075-sort-colors.java",
+          "sha": "467626103418ec8537d395c7a02d84c4871dcc97",
+          "lastSyncedAt": "2026-10-13T05:40:23.352Z"
         }
       ]
     }
