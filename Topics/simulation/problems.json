@@ -5,8 +5,28 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-10-13T05:34:03.574Z",
+  "updatedAt": "2026-10-13T05:36:55.206Z",
   "problems": [
+    {
+      "frontendId": "735",
+      "title": "Asteroid Collision",
+      "slug": "asteroid-collision",
+      "problemName": "0735-asteroid-collision",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/asteroid-collision/",
+      "folderPath": "0735-asteroid-collision/",
+      "readmePath": "0735-asteroid-collision/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0735-asteroid-collision.java",
+          "path": "0735-asteroid-collision/0735-asteroid-collision.java",
+          "sha": "496d55e660402cf2e94d3c707d1635cfcb5aa4ac",
+          "lastSyncedAt": "2026-10-13T05:36:55.206Z"
+        }
+      ]
+    },
     {
       "frontendId": "1929",
       "title": "Concatenation of Array",
