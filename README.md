@@ -89,3 +89,15 @@ Contains topicwise list of solved problems.
 | [Two Pointers](Topics/two-pointers/) | 24 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
 <!---LeetHub Summary End-->
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/sreenath6489/AppliedCodingSKills/tree/main/1480-running-sum-of-1d-array/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/sreenath6489/AppliedCodingSKills/tree/main/1480-running-sum-of-1d-array/) | Easy |
+<!---LeetCode Topics End-->
