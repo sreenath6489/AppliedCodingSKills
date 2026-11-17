@@ -95,6 +95,7 @@ Contains topicwise list of solved problems.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sreenath6489/AppliedCodingSKills/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/sreenath6489/AppliedCodingSKills/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/sreenath6489/AppliedCodingSKills/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Prefix Sum
@@ -108,6 +109,7 @@ Contains topicwise list of solved problems.
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sreenath6489/AppliedCodingSKills/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0374-guess-number-higher-or-lower](https://github.com/sreenath6489/AppliedCodingSKills/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
