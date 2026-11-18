@@ -5,7 +5,7 @@
     "name": "Stack",
     "tagId": "15"
   },
-  "updatedAt": "2026-10-13T05:39:44.033Z",
+  "updatedAt": "2026-11-18T11:29:53.104Z",
   "problems": [
     {
       "frontendId": "42",
@@ -24,6 +24,26 @@
           "path": "0042-trapping-rain-water/0042-trapping-rain-water.java",
           "sha": "f0ddb7fec10028c49e958a6ca052b4d14958052c",
           "lastSyncedAt": "2026-10-13T05:31:00.186Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "150",
+      "title": "Evaluate Reverse Polish Notation",
+      "slug": "evaluate-reverse-polish-notation",
+      "problemName": "0150-evaluate-reverse-polish-notation",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/evaluate-reverse-polish-notation/",
+      "folderPath": "0150-evaluate-reverse-polish-notation/",
+      "readmePath": "0150-evaluate-reverse-polish-notation/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0150-evaluate-reverse-polish-notation.java",
+          "path": "0150-evaluate-reverse-polish-notation/0150-evaluate-reverse-polish-notation.java",
+          "sha": "dd1aad73811189178f02f62f1a43fa6164ceaadc",
+          "lastSyncedAt": "2026-11-18T11:29:53.104Z"
         }
       ]
     },
