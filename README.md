@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 79 | 34 | 40 | 5 |
+| 80 | 34 | 41 | 5 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 4 days | 27 |
+| 2 days | 4 days | 28 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-11 | 4 |
 | 2026-08-14 | 1 |
 | 2026-08-18 | 1 |
 | 2026-08-25 | 3 |
@@ -29,27 +28,28 @@ Contains topicwise list of solved problems.
 | 2026-10-09 | 7 |
 | 2026-10-12 | 5 |
 | 2026-11-17 | 1 |
+| 2026-11-18 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 46 | 58% |
+| Array | 47 | 59% |
 | Two Pointers | 24 | 30% |
 | String | 19 | 24% |
 | Hash Table | 14 | 18% |
 | Sorting | 13 | 16% |
 | Linked List | 11 | 14% |
-| Math | 10 | 13% |
+| Math | 11 | 14% |
 | Binary Search | 9 | 11% |
-| Stack | 8 | 10% |
+| Stack | 9 | 11% |
 | Dynamic Programming | 7 | 9% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 46 |
+| [Array](Topics/array/) | 47 |
 | [Backtracking](Topics/backtracking/) | 4 |
 | [Binary Search](Topics/binary-search/) | 9 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 3 |
@@ -69,7 +69,7 @@ Contains topicwise list of solved problems.
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 11 |
 | [Manacher](Topics/manacher/) | 1 |
-| [Math](Topics/math/) | 10 |
+| [Math](Topics/math/) | 11 |
 | [Matrix](Topics/matrix/) | 1 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
 | [Monotonic Queue](Topics/monotonic-queue/) | 1 |
@@ -82,7 +82,7 @@ Contains topicwise list of solved problems.
 | [Simulation](Topics/simulation/) | 4 |
 | [Sliding Window](Topics/sliding-window/) | 7 |
 | [Sorting](Topics/sorting/) | 13 |
-| [Stack](Topics/stack/) | 8 |
+| [Stack](Topics/stack/) | 9 |
 | [String](Topics/string/) | 19 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
