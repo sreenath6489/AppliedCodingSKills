@@ -121,4 +121,12 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/sreenath6489/AppliedCodingSKills/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/sreenath6489/AppliedCodingSKills/tree/main/0155-min-stack/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/sreenath6489/AppliedCodingSKills/tree/main/0155-min-stack/) | Medium |
 <!---LeetCode Topics End-->
