@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-17T11:10:36.283Z",
+  "updatedAt": "2026-11-18T11:29:53.104Z",
   "problems": [
     {
       "frontendId": "1",
@@ -444,6 +444,26 @@
           "path": "0136-single-number/0136-single-number.java",
           "sha": "1d57f6fec45d869e16faef7a0bc0c6095d2117e1",
           "lastSyncedAt": "2026-10-13T05:33:35.151Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "150",
+      "title": "Evaluate Reverse Polish Notation",
+      "slug": "evaluate-reverse-polish-notation",
+      "problemName": "0150-evaluate-reverse-polish-notation",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/evaluate-reverse-polish-notation/",
+      "folderPath": "0150-evaluate-reverse-polish-notation/",
+      "readmePath": "0150-evaluate-reverse-polish-notation/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0150-evaluate-reverse-polish-notation.java",
+          "path": "0150-evaluate-reverse-polish-notation/0150-evaluate-reverse-polish-notation.java",
+          "sha": "dd1aad73811189178f02f62f1a43fa6164ceaadc",
+          "lastSyncedAt": "2026-11-18T11:29:53.104Z"
         }
       ]
     },
